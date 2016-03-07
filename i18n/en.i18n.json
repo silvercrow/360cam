@@ -1,0 +1,76 @@
+{
+
+	/*Config*/
+	"configName": "360cam.gt",
+	"configTitle": "360cam.gt",
+	"configSubtitle": "Produccion de videos 360",
+
+	/*Home*/
+	"getstarted": "Registrate",
+	"dashboard": "Panel de administracion",
+	"learn": "Ver más",
+	"intro": "Produce tu video 360",
+	"how": "Como funciona",
+	"step_1": "Paso 1",
+	"step_1_text": "Planifica tu evento.",
+	"step_2": "Paso 2",
+	"step_2_text": "Elige los paquetes de filmación.",
+	"step_3": "Paso 3",
+	"step_3_text": "Envia tu formulario y nos pondremos en contacto para hacer de tu evento memorable.",
+	"section_ipad_header": "Smart Devices",
+	"section_ipad_text": "Visualiza tus eventos de una manera memorable",
+	"section_ipad_btn": "Ver Demo",
+	"final_text": "Se parte del momento",
+	"final_cta": "Registrate",
+
+	/*Shared*/
+
+	"favorite": "Favorito",
+
+	 /*Navbar*/
+	"admin": "Admin",
+	"profile": "Perfil",
+	"account": "Cuenta",
+	"signout": "Cerrar Sessión",
+	"signup": "Registrate",
+	"login": "Log in",
+	"login2": "Login",
+	"edit_profile": "Editar Perfil",
+
+	/*Not Found*/
+	"not_found": "Pagina no Encontrada 404.",
+
+
+	/*Dashboard*/
+	"add_post": "Nueva Historia",
+	"add_post_btn": "Añade una historia nueva",
+	"add_post_modal": "Añade un modal",
+	"add_post_modal_btn": "Añade una historia nueva",
+	"edit_post": "Editar historia",
+	"delete": "Borrar",
+	"favorites": "Favoritos",
+
+	/*Account*/
+	"account_details": "Detalles de la Cuenta",
+	"delete_account": "Eliminar Cuenta",
+	"delete_account_warn": "Estas a punto de eliminar la cuenta.",
+	"delete_account_warn2": "Estas seguro de eliminar la cuenta?",
+	"close": "Cerrar",
+	"change_pswd": "Cambiar Contraseña",
+
+	/*Profile*/
+	"update": "Guardar",
+
+	/*Posts*/
+
+	"postTitle": "Titulo",
+	"postContent": "Contenido",
+	"postPicture": "Imagen",
+	// "uploadLabel": "Elige una Imagen"
+	"profilePicture": "Imagen de Perfil"
+
+
+
+
+
+}
